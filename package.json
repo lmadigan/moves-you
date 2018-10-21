@@ -1,0 +1,32 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^27.0.1",
+    "firebase": "^4.13.1",
+    "lodash": "^4.17.10",
+    "prop-types": "^15.6.1",
+    "qs": "^6.5.2",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "react-native-cropping": "0.0.4",
+    "react-native-elements": "^0.19.1",
+    "react-native-google-place-picker": "^1.2.1",
+    "react-native-google-places-autocomplete": "^1.3.6",
+    "react-native-link-preview": "^1.3.4",
+    "react-native-router-flux": "^4.0.0-beta.28",
+    "react-native-vector-icons": "^4.6.0",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.3",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.3",
+    "react-test-renderer": "16.3.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

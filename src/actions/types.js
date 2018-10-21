@@ -1,0 +1,17 @@
+export const EMAIL_CHANGED = 'email_changed';
+export const PASSWORD_CHANGED = 'password_changed';
+export const LOGIN_USER_SUCCESS = 'login_user_success';
+export const LOGIN_USER_FAIL = 'login_user_fail';
+export const LOGIN_USER = 'login_user';
+export const FETCH_PASSION_ITEMS_SUCCESS = 'fetch_passion_items_success';
+export const ADD_PASSION = 'add_passion';
+export const SET_PASSION = 'set_passion';
+export const ADD_CONTENT = 'add_content';
+export const ADD_LABEL = 'add_label';
+export const ADD_DESCRIPTION = 'add_description';
+export const FETCH_PASSION_ITEM = 'fetch_passion_item';
+export const ADD_THUMBNAIL = 'add_thumbnail';
+export const FETCH_THUMBNAIL_SUCCESS = 'fetch_thumbnail_success';
+export const DELETE_THUMBNAIL = 'delete_thumbnail';
+export const FETCH_PASSION = 'fetch_passion';
+export const LOAD_FONT = 'load_font';
